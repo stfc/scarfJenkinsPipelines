@@ -1,6 +1,6 @@
 node {
 
-    build 'hpl-11copy'
+    build 'HPL/hpl11-CopiedJobs/hpl-11copy'
 
 
         parallel 'eleven':{
