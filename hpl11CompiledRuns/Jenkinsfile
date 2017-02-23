@@ -1,3 +1,5 @@
+#!groovy
+
 node {
 
     build 'HPL/hpl11-CopiedJobs/hpl-11copy'

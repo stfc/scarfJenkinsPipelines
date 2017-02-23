@@ -1,3 +1,5 @@
+#!groovy
+
 node {
         parallel 'eleven':{
             node {
